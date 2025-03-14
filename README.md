@@ -1,1 +1,1 @@
-# Netwok-TicTacToe
+# Bachelor Course: Netwok - TicTacToe
